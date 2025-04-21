@@ -1,0 +1,23 @@
+body{
+    color: #EDD1CB;
+    background-color: #371D31;
+    text-align: center;
+    
+}
+.horiline{
+    color: #F95950;
+}
+ol{
+text-align: center;
+}
+#flower{
+    border: solid #563C50 20px;
+    
+}
+marquee{
+    background-color: #563C50;
+}
+table{
+ box-align: center;
+ border: solid #563C50 6px;
+}
